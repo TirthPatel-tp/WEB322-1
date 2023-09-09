@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "a5-modified---upload",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Tirth Patel",
+  "license": "ISC",
+  "description": ""
+}
